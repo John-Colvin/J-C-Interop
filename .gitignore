@@ -1,2 +1,7 @@
 *.o
 justC
+*.a
+jaiAndC
+test.jai
+.build/
+
