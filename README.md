@@ -8,7 +8,7 @@ roughly where they might end up.
 
 It doesn't work & attempts to make it work seem NotGreat™
 
-## Assumptions not actually present in the code:
+## Assumptions not actually present in the code
 
 * The interface between the C code & Jai is large & unstable, so
   auto-generation of bindings is really desirable.
